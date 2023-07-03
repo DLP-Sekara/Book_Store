@@ -1,0 +1,38 @@
+.inputFieldArea {
+  margin: 1% 2% 2% 2%;
+  width: 64%;
+  border: 1px solid rgb(190, 190, 190);
+  border-radius: 20px;
+  padding: 1%;
+}
+.title {
+  color: black;
+}
+.addBtn {
+  margin-left: 10%;
+}
+.uploadField {
+  color: black;
+  border: 1px solid rgb(190, 190, 190);
+  border-radius: 5px;
+}
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.imgArea{
+  height: 20%;
+  width: 20%;
+  background-color: red;
+}
+.uploadedImg{
+   display: flex;
+   flex: 2;
+  flex-direction: row;
+}
+.closeButton{
+  border: 1px solid white;
+  background-color: transparent;
+  cursor: pointer;
+}
